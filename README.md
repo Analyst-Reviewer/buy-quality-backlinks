@@ -41,8 +41,8 @@
 </ul>
 
 <!-- Insert the correct image here -->
-<a href="https://github.com/user-attachments/assets/61420bec-3b24-4a18-abe5-3e2c6594515b">
-    <img src="https://github.com/user-attachments/assets/61420bec-3b24-4a18-abe5-3e2c6594515b" alt="Image">
+<a href="https://github.com/user-attachments/assets/1dd018d3-1d2c-4093-93f3-b02aec04ff51">
+    <img src="https://github.com/user-attachments/assets/1dd018d3-1d2c-4093-93f3-b02aec04ff51" alt="Image">
 </a>
 
 <h2>What Links Can You Buy?</h2>
