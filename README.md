@@ -1,4 +1,4 @@
-<h2>How to Choose Quality Links?</h2>
+<h1>How to Choose Quality Links?</h1>
 <table>
     <thead>
         <tr>
